@@ -118,4 +118,10 @@ td {
   section h1{
     color: #16697a;
   }
- 
+ article a{
+     margin: 0;
+     margin-top: 0;
+     margin-bottom: 0;
+     margin-left: 0;
+     margin-right: 0;
+ }
