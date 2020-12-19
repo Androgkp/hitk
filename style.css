@@ -125,3 +125,23 @@ td {
      margin-left: 0;
      margin-right: 0;
  }
+ form{
+
+    margin-left: 4%;
+    color: #045762;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+
+ }
+ input{
+     margin-left: 4%;
+     color: brown;
+     font-weight: bold;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: x-large;
+ 
+ }
+ textarea{
+     margin-left: 4%;
+ }
